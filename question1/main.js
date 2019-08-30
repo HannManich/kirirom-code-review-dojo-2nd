@@ -20,4 +20,3 @@ function resetNumber(){
 plusButton.addEventListener('click', addition)
 minusButton.addEventListener('click', substraction)
 resetButton.addEventListener('click', resetNumber)
-
